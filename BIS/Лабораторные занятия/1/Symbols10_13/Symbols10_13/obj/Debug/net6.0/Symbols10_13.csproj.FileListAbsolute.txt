@@ -1,0 +1,15 @@
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\bin\Debug\net6.0\Symbols10_13.exe
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\bin\Debug\net6.0\Symbols10_13.deps.json
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\bin\Debug\net6.0\Symbols10_13.runtimeconfig.json
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\bin\Debug\net6.0\Symbols10_13.dll
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\bin\Debug\net6.0\Symbols10_13.pdb
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.csproj.AssemblyReference.cache
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.AssemblyInfoInputs.cache
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.AssemblyInfo.cs
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.csproj.CoreCompileInputs.cache
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.dll
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\refint\Symbols10_13.dll
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.pdb
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\Symbols10_13.genruntimeconfig.cache
+D:\7sem\BIS\1\Symbols10_13\Symbols10_13\obj\Debug\net6.0\ref\Symbols10_13.dll

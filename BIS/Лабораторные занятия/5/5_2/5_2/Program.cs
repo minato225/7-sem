@@ -1,0 +1,1 @@
+﻿var s = "var s = {0}{1}{0}; var q = '{0}'; Console.Write(s, q, s);"; var q = '"'; Console.Write(s, q, s);

@@ -1,0 +1,13 @@
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\SerialNumber.exe.config
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\SerialNumber.exe
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\SerialNumber.pdb
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\obj\Debug\SerialNumber.csproj.AssemblyReference.cache
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\obj\Debug\SerialNumber.csproj.SuggestedBindingRedirects.cache
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\obj\Debug\SerialNumber.csproj.CoreCompileInputs.cache
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\obj\Debug\SerialNumber.exe
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\obj\Debug\SerialNumber.pdb
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\DeviceId.Windows.dll
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\DeviceId.Windows.xml
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\obj\Debug\SerialNumber.csproj.CopyComplete
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\System.CodeDom.dll
+D:\7sem\BIS\Лабораторные занятия\14\SerialNumber\SerialNumber\bin\Debug\System.CodeDom.xml

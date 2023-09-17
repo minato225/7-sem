@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+        <ApplicationIcon>Images\2fa.ico</ApplicationIcon>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <AssemblyName>OTPManager</AssemblyName>
+        <RootNamespace>OTPManager.Wpf</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="Images\2fa.ico" />
+      <None Remove="Images\2fa.png" />
+      <None Remove="Images\key.ico" />
+      <None Remove="Images\key.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="ApplicationUpdater" Version="0.3.0" />
+        <PackageReference Include="GitVersion.MsBuild" Version="5.10.3">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="Otp.NET" Version="1.2.2" />
+        <PackageReference Include="QRCoder" Version="1.4.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Resource Include="Images\2fa.ico" />
+      <Resource Include="Images\2fa.png" />
+      <Resource Include="Images\key.ico" />
+      <Resource Include="Images\key.png" />
+    </ItemGroup>
+
+</Project>

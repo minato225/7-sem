@@ -1,0 +1,8 @@
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\bin\Debug\FirstFilename.exe.config
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\bin\Debug\FirstFilename.exe
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\bin\Debug\FirstFilename.pdb
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\obj\Debug\FirstFilename.csproj.AssemblyReference.cache
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\obj\Debug\FirstFilename.csproj.SuggestedBindingRedirects.cache
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\obj\Debug\FirstFilename.csproj.CoreCompileInputs.cache
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\obj\Debug\FirstFilename.exe
+D:\7sem\BIS\Лабораторные занятия\16\FirstFilename\FirstFilename\obj\Debug\FirstFilename.pdb

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "romashkins-kebab",
+  "private_key_id": "a462bf84d9d3c6af4d31848abca26822e25ac264",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC25/GFzIi3NM9P\nLRmimsLjO7N80tN/f39vSagpTzhuM8wOxg/YnOsiFRn7R/WloPVSjnvI7U2Pm3cK\nWD6sWP7VLtMT/vwYnaTmmFcc+FX+3PRAAnBc1/l7dKJuDRAMNT87t3XrH4qImZch\nnm24KuU1COi7zmFUXsCc1d0sqA+sqxsb5XPcEh9flGQdE1dLBlKnCL2qaM9eITl1\ndqzUui92QbAvQbK3gqRpBPbV57+k7xiDUduCZz6vM/29y/Rf+dw4upvNVxR7z/nl\nEVMoOZZCpmzMsGCdMR+1LvvkZP8GVjItTTobwK+bEnElW1elOeQ27Es5xPdcMCrr\nKSVH6VCHAgMBAAECggEAARr5W2TGN1ZrEWD7DmdM510qNsI+erbh4YfDV0aczHVb\njOtkMA+OdNHIuITfQhbXVmfFT5y33Y4JSbrSqxOXi/FLixlJX4Dhf38XTJ6714Do\n74dJWeoIvGSKtwM/9n4okVoj884BA8ARMThJ0zSzafQl76oR81yk7xiagF452zdA\nap15Yqno2JqL6HbDSpSYywWStPL0H2GzEcwJR1Aznc2k+ZxxB8NEiI0eFAFXcHHH\n7P6liX7wPboF1qN0hHIlWZnBTRrRjYuFOakDIZCXH5hcZkBPyM2ztOWkVbDjEsff\nOqHt9m97e0M+/Etq/1pXIqh41gx19ejpVb0I2o4yCQKBgQDn32DlZkb4fZHcKciH\n+9FesIbLotYfrBo6sPCPSZDdr8RxYKPOAlGVPgtuu78Rbia4snqINKC/ORHAUq97\nLWPvBiJKZja6F1kdqhobztiiM6zjXMfjJOMGU1Q6/FG7ITOAQjcW7LFZTyJg37my\nFZtf7TGFmrLtES7yz6pBuODyqwKBgQDJ8DG2RD7n7ENNzHZGLs9Qw0NzjjjBMRcc\nMW3cxyQuI8ucqrALYoayPIrGpquhxNb1w9+97hFl7vvc+NiBPOlJp0xbxDUXxlxz\n95AuU3Bg9BeW2UzmiD74zQHvehQCRv3HAS4mP5rsDztx3eXgObI5fW5ORaA0vaF7\nbnHeJNw5lQKBgQCrLld7pCFbDGEll9dKxRbSACLTrZjE8yq+D6jZL+d6Mmwlg8IK\nsd2G/7IzAvpRJPADRQh/C9NsuPYo9SJGHsF7Uhz4rjNS+S+6Xb0+sFtwjBPkGrgb\nMj1EizpQ/bxdGWrLEpdXHlDj7S8lM6YFGjyF+jeoOghESn5NlhBMyu+PVwKBgFqw\nPCMW0wlk2XT+9b7fFsu2ZXxnyqU4XqCSsjwMUvtFqBNbtGPog4VYGxrLjxi/Rapp\npPmvCLE2enXqa5DewgYJ1AkCPLXIp4yNCXtEjZt9A3sDa728QkuKBex+bq33I9FT\nfl4/AlwxGwkwFiR0xM18vyT3r9L/tp2wJAMXmq9hAoGBANAKA3nLzkH8S8W3CnDw\ngCehHs/eB6V+73dUQZ8oenpk+7mIOKwPg0JGnXq/4W8x7/6HSuEbRMLCQ4nCM0i0\n1wdO5zKPLg81fiWuaXSmhS23e5uSNGasGtM+MR+tmG6S8NubOaxredoy16dQ9dE+\nqQtOIC63PuyDjJ5GszUrimL+\n-----END PRIVATE KEY-----\n",
+  "client_email": "githubaction-proekt13-romashki@romashkins-kebab.iam.gserviceaccount.com",
+  "client_id": "114300356475417412959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/githubaction-proekt13-romashki%40romashkins-kebab.iam.gserviceaccount.com"
+}

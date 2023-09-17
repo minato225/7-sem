@@ -1,0 +1,8 @@
+﻿  Assembling asm64.asm...
+  Source.cpp
+D:\7sem\BIS\Лабораторные занятия\5\5_3\SelfChange\SelfChange\Source.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SelfChange.vcxproj -> D:\7sem\BIS\Лабораторные занятия\5\5_3\SelfChange\x64\Release\SelfChange.exe

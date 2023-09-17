@@ -1,0 +1,8 @@
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\bin\Debug\5_4_fr.exe.config
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\bin\Debug\5_4_fr.exe
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\bin\Debug\5_4_fr.pdb
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\obj\Debug\5_4_fr.csproj.AssemblyReference.cache
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\obj\Debug\5_4_fr.csproj.SuggestedBindingRedirects.cache
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\obj\Debug\5_4_fr.csproj.CoreCompileInputs.cache
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\obj\Debug\5_4_fr.exe
+D:\7sem\BIS\Лабораторные занятия\5\5_4_fr\5_4_fr\obj\Debug\5_4_fr.pdb

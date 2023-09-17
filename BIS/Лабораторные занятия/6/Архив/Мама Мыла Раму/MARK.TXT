@@ -1,0 +1,115 @@
+.model small
+.data
+  OblVvoda  db  15,?,15 dup (?)
+  newline db 10, 13, '$'
+  regcs db 'CS: $'
+  regds db 'DS: $'   
+  reges db 'ES: $'
+  regss db 'SS: $'
+.code
+
+print_reg proc
+  push  ax
+
+  xchg  al, ah
+  call  print_byte
+  xchg  al, ah
+  call  print_byte
+
+  pop  ax
+  ret
+print_reg endp
+
+print_byte proc
+  push  ax
+  push  bx
+  mov  ah, 0
+  mov  bl, 16
+  div  bl
+
+  call  print_4bit
+  mov  al, ah
+  call  print_4bit
+
+  pop  bx
+  pop  ax
+  ret
+print_byte endp
+
+print_4bit proc
+  push  ax
+  push  dx
+  cmp  al, 10
+  jge  letter  
+  mov  dl, '0'
+  jmp  print
+letter:
+  sub  al, 10
+  mov  dl, 'A'
+print:
+  add  dl, al
+  mov  ah, 02h
+  int  21h
+  pop  dx
+  pop  ax
+  ret
+  print_4bit endp
+
+UU:
+  mov ax, @data
+  mov ds,ax
+
+  mov ah, 09h
+  lea dx, newline
+  int 21h
+
+  mov ah, 09h
+  lea dx, regcs
+  int 21h
+  mov ax, cs
+  call print_reg
+  mov ah, 09h 
+  lea dx, newline
+  int 21h
+
+  mov ah, 09h 
+  lea dx, regss
+  int 21h
+  mov ax, ss
+  call print_reg
+  mov ah, 09h
+  lea dx, newline
+  int 21h
+
+  mov ah, 09h 
+  lea dx, reges
+  int 21h
+  mov ax, es
+  call print_reg
+  mov ah, 09h
+  lea dx, newline
+  int 21h
+
+  mov ah, 09h 
+  lea dx, regds
+  int 21h
+  mov ax, ds
+  call print_reg
+  mov ah, 09h
+  lea dx, newline
+  int 21h
+
+  mov  ah,10
+  lea  dx,OblVvoda
+  int  21h
+  mov  OblVvoda+12,'P'
+  mov  OblVvoda+14,'P'
+  mov   ah,9
+  lea  DX,OblVvoda+2
+  mov  OblVvoda+16,'$'
+  int  21h
+
+  mov  ah,4ch
+  int  21h
+
+  end   UU

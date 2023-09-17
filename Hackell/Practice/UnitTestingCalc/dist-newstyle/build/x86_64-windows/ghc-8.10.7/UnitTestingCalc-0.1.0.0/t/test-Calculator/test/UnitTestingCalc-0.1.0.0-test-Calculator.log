@@ -1,0 +1,4 @@
+Test suite test-Calculator: RUNNING...
+Cases: 2  Tried: 0  Errors: 0  Failures: 0Cases: 2  Tried: 1  Errors: 0  Failures: 0                                          Cases: 2  Tried: 2  Errors: 0  Failures: 0
+Test suite test-Calculator: PASS
+Test suite logged to: D:\7sem\Hackell\Practice\UnitTestingCalc\dist-newstyle\build\x86_64-windows\ghc-8.10.7\UnitTestingCalc-0.1.0.0\t\test-Calculator\test\UnitTestingCalc-0.1.0.0-test-Calculator.log

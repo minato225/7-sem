@@ -1,0 +1,9 @@
+/dist-newstyle
+/dist-newstyle/cache/config
+/dist-newstyle/cache/elaborated-plan
+/dist-newstyle/cache/up-to-date
+/dist-newstyle/cache/source-hashes
+/dist-newstyle/cache/solver-plan
+/dist-newstyle/cache/plan.json
+
+

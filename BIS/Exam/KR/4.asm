@@ -1,0 +1,75 @@
+.MODEL SMALL
+.DATA
+PROGRAM_NAME DB 256 DUP (0)
+BYTES DB " bytes$"
+.CODE
+START:
+	MOV AX, @DATA
+	MOV DS, AX
+	
+     	MOV AX, ES:[2CH]
+	MOV ES, AX
+	MOV SI, -1
+SEARCH_01:
+	ADD SI, 1
+	MOV AL, ES:[SI]
+	CMP AL, 0
+	JNE SEARCH_01
+	MOV AL, ES:[SI+1]
+	CMP AL, 1
+	JNE SEARCH_01
+	ADD SI, 2
+	MOV BX, OFFSET PROGRAM_NAME
+	
+CP_NAME:
+	ADD SI, 1
+	MOV AL, ES:[SI]
+	MOV [BX], AL
+	INC BX
+	CMP AL, 0
+	JNE COPY_NAME
+	
+	MOV DX,OFFSET PROGRAM_NAME
+	MOV AX,3D00H
+	INT 21H
+    
+    MOV BX, AX
+    MOV AL, 2
+    XOR CX, CX
+    XOR DX, DX
+    MOV AH, 42H
+    INT 21H
+    
+    PUSH BX
+    
+    MOV CX, 0
+NUM_TO_TEXT:
+    CMP AX, 0
+    JE PRINT
+
+    XOR DX, DX
+    MOV BX, 10
+    DIV BX
+    PUSH DX
+    INC CX
+    JMP NUM_TO_TEXT
+PRINT:
+    POP DX
+    ADD DX, 30H
+    MOV AH, 02H
+    INT 21H
+    LOOP PRINT
+    
+
+    POP BX
+    MOV AH, 3EH
+    INT 21H
+	
+	
+    MOV DX, OFFSET BYTES
+    MOV AH, 9H
+    INT 21H
+    
+    MOV AH, 4CH
+    INT 21H
+END START

@@ -1,0 +1,8 @@
+D:\7sem\BIS\Лабораторные занятия\5\52\52\bin\Debug\52.exe.config
+D:\7sem\BIS\Лабораторные занятия\5\52\52\bin\Debug\52.exe
+D:\7sem\BIS\Лабораторные занятия\5\52\52\bin\Debug\52.pdb
+D:\7sem\BIS\Лабораторные занятия\5\52\52\obj\Debug\52.csproj.AssemblyReference.cache
+D:\7sem\BIS\Лабораторные занятия\5\52\52\obj\Debug\52.csproj.SuggestedBindingRedirects.cache
+D:\7sem\BIS\Лабораторные занятия\5\52\52\obj\Debug\52.csproj.CoreCompileInputs.cache
+D:\7sem\BIS\Лабораторные занятия\5\52\52\obj\Debug\52.exe
+D:\7sem\BIS\Лабораторные занятия\5\52\52\obj\Debug\52.pdb
